@@ -6,8 +6,7 @@
 **projet d'analyse exploratoire et de visualisation**  
   
 **Open food fact** :    
-Open Food Facts est un projet collaboratif dont le but est de constituer une base de données libre et ouverte sur les produits alimentaires commercialisés dans le monde entier1.  
-Open Food Facts est disponible via un site web ou des applications pour mobiles.  
+Open Food Facts est un projet collaboratif dont le but est de constituer une base de données libre et ouverte sur les produits alimentaires commercialisés dans le monde entier.  
 
 L'enjeu est de rendre ces données plus accessibles pour des agents de santé publique:  
 * en les nettoyant  
@@ -30,4 +29,4 @@ Jeu de données **openfood:**
 
 ## Présentation PDF:  
 [pdf complet](https://github.com/bilnab/P3/blob/main/P3.pdf)  
-<img src="https://github.com/bilnab/P3/blob/main/img/P3%20pres.png" height="300">
+<img src="https://github.com/bilnab/P3/blob/main/img/p3%20pres.png" height="300">
