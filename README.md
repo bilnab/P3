@@ -14,13 +14,13 @@ L'enjeu est de rendre ces données plus accessibles pour des agents de santé pu
 * en ne selectionnant que l'information pertitente
 
 ## Ressources:
-Jeu de données **openfood:**
+Jeu de données **openfood:**  
 [lien 1](https://world.openfoodfacts.org/)  
 [lien 2](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip)   
 [descriptif](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/AI+Engineer/Project+3+-+Pr%C3%A9parez+des+donn%C3%A9es+pour+un+organisme+de+sant%C3%A9+publique/Open_Food_Facts_data-fields.txt)  
 
 ## Script   
-un notebook commenté [lien](https://github.com/bilnab/P3/blob/main/P3%20analyse%20exploratoire.ipynb):  
+[un notebook commenté](https://github.com/bilnab/P3/blob/main/P3%20analyse%20descriptive%20%26%20explicative%20light.ipynb):  
 * qui nettoie un jeu de données
 * qui repère des variables pertinentes  
 * qui automatise des traitements  
